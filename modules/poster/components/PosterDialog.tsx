@@ -1,8 +1,7 @@
 import { Dialog, Transition } from '@headlessui/react';
 import Poster, { Course } from '../Poster';
-import React, { Fragment, useState } from 'react';
+import React, { Fragment } from 'react';
 
-import Image from 'next/image';
 import VoteButton from './VoteButton';
 
 type PosterDialogProp = {
@@ -49,13 +48,10 @@ const PosterDialog = ({ isOpen, poster, onCloseDialog }: PosterDialogProp) => {
 					>
 						<div className='inline-block w-full max-w-5xl p-6 my-8 text-left align-middle transition-all transform bg-white shadow-xl rounded-2xl'>
 							<div className='w-full'>
-								<Image
-									className='rounded-md object-cover object-center'
+								<img
+									className='max-w-full h-auto rounded-md object-cover object-center mx-auto'
 									src={poster?.imageURL ?? ''}
 									alt='poster'
-									width={400}
-									height={300}
-									layout='responsive'
 								/>
 							</div>
 							<Dialog.Title

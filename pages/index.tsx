@@ -2,7 +2,6 @@ import PosterType, { loadPostersFromJSON } from '../modules/poster/Poster';
 import { useEffect, useState } from 'react';
 
 import Head from 'next/head';
-import Image from 'next/image';
 import Loading from '../components/Loading';
 import type { NextPage } from 'next';
 import PosterList from '../modules/poster/components/PosterList';
@@ -47,12 +46,7 @@ const Home: NextPage = () => {
 					School of Information Technology, King Mongkut&apos;s University of
 					Technology Thonburi
 				</p>
-				<Image
-					src='/images/KMUTT+SIT.png'
-					width={471.5}
-					height={96.125}
-					alt='SIT, KMUTT Logo'
-				/>
+				<img className='max-w-[500px] h-auto mx-auto' src='/images/KMUTT+SIT.png' alt='SIT, KMUTT Logo' />
 			</footer>
 		</div>
 	);
