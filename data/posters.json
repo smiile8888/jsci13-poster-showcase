@@ -79,5 +79,14 @@
 		"imageUrl": "https://drive.google.com/file/d/1sXNJZdLbMFUyYxUe0bnNcw0tRzvxjDaZ/preview",
 		"videoUrl": "https://vimeo.com/704382681/6f1e5127ba?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=f52c9888-e245-6328-63bd-1bf199cff57f",
 		"course": "csc532"
+  },
+  {
+    "posterId": 10,
+		"authors": ["Krishadawut Olde MONNIKHOF"],
+		"title": "Use Recipe Ingredients to Categorize the Cuisine",
+		"abstract": "Poster #10",
+		"imageUrl": "https://drive.google.com/file/d/1d4WveTsQhnmBz4tHzH6XycjIPPpa-ENB/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=iQzq4fJih4E",
+		"course": "csc532"
   }
 ]
