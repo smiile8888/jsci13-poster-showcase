@@ -54,9 +54,6 @@ const PosterDialog = ({ isOpen, poster, onCloseDialog }: PosterDialogProp) => {
 								{poster?.title ?? ''}
 							</Dialog.Title>
 							<h3 className='text-lg mb-3'>{poster?.authors.join(', ')}</h3>
-							<div className='bg-gray-300 w-min px-3 py-1 text mb-3 rounded-full text-sm'>
-								{Course[poster?.course ?? 0]}
-							</div>
 							<div className='mt-3'>
 								<p className='leading-6 mb-5'>{poster?.abstract}</p>
 							</div>

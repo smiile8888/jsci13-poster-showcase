@@ -20,9 +20,6 @@ const Poster = ({ poster, className, onClick }: PosterProps) => {
 		>
 			<PosterImage imageURL={poster.imageURL} />
 			<PosterTitle title={poster.title} />
-			<div className='bg-gray-300 w-min px-3 py-1 text mb-3 rounded-full text-sm'>
-				{Course[poster.course]}
-			</div>
 			<PosterAbstract abstract={poster.abstract} />
 			<VoteButton posterID={poster.id} />
 		</div>
