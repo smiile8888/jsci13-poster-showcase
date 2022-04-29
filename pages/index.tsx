@@ -45,7 +45,7 @@ const Home: NextPage = () => {
 					Technology Thonburi
 				</p>
 				<img
-					className='max-w-[500px] h-auto mx-auto'
+					className='max-w-[350px] md:max-w-[500px] h-auto mx-auto'
 					src='images/KMUTT+SIT.png'
 					alt='SIT, KMUTT Logo'
 				/>
