@@ -9,16 +9,18 @@ type PosterListProps = {
 
 const PosterList = ({ posters }: PosterListProps) => {
 	const [dialogOpen, setDialogOpen] = React.useState(false);
-	const [dialogPoster, setDialogPoster] = React.useState<PosterType | null>(null);
+	const [dialogPoster, setDialogPoster] = React.useState<PosterType | null>(
+		null
+	);
 
 	const openDialog = (poster: PosterType) => {
 		setDialogPoster(poster);
 		setDialogOpen(true);
-	}
+	};
 
 	const closeDialog = () => {
 		setDialogOpen(false);
-	}
+	};
 
 	return (
 		<>
@@ -27,7 +29,7 @@ const PosterList = ({ posters }: PosterListProps) => {
 				onCloseDialog={closeDialog}
 				poster={dialogPoster}
 			/>
-			<div className='grid grid-cols-2 gap-5 md:grid-cols-4 xl:grid-cols-6'>
+			<div className='grid grid-cols-2 gap-5 md:grid-cols-4'>
 				{posters.map((poster) => (
 					<Poster
 						className='col-span-2 grid-item'

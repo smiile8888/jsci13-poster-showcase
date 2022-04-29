@@ -1,56 +1,56 @@
 [
-  {
-    "posterId": 1,
+	{
+		"posterId": 1,
 		"authors": ["Lorem ipsum"],
 		"title": "Lorem ipsum dolor sit amet",
 		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "http://placekitten.com/500/500",
+		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
 		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
 		"course": "csc491"
-  },
-  {
-    "posterId": 2,
+	},
+	{
+		"posterId": 2,
 		"authors": ["Lorem ipsum", "Lorem ipsum"],
 		"title": "Lorem ipsum dolor sit amet",
 		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "http://placekitten.com/500/500",
+		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
 		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
 		"course": "csc532"
-  },
-  {
-    "posterId": 3,
+	},
+	{
+		"posterId": 3,
 		"authors": ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum"],
 		"title": "Lorem ipsum dolor sit amet",
 		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "http://placekitten.com/500/500",
+		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
 		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
 		"course": "csc532"
-  },
-  {
-    "posterId": 4,
+	},
+	{
+		"posterId": 4,
 		"authors": ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum"],
 		"title": "Lorem ipsum dolor sit amet",
 		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "http://placekitten.com/500/500",
+		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
 		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
 		"course": "csc491"
-  },
-  {
-    "posterId": 5,
+	},
+	{
+		"posterId": 5,
 		"authors": ["Lorem ipsum"],
 		"title": "Lorem ipsum dolor sit amet",
 		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "http://placekitten.com/500/500",
+		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
 		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
 		"course": "csc532"
-  },
-  {
-    "posterId": 6,
+	},
+	{
+		"posterId": 6,
 		"authors": ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum"],
 		"title": "Lorem ipsum dolor sit amet",
 		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "http://placekitten.com/500/500",
+		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
 		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
 		"course": "csc532"
-  }
+	}
 ]

@@ -47,13 +47,6 @@ const PosterDialog = ({ isOpen, poster, onCloseDialog }: PosterDialogProp) => {
 						leaveTo='opacity-0 scale-95'
 					>
 						<div className='inline-block w-full max-w-5xl p-6 my-8 text-left align-middle transition-all transform bg-white shadow-xl rounded-2xl'>
-							<div className='w-full'>
-								<img
-									className='max-w-full h-auto rounded-md object-cover object-center mx-auto'
-									src={poster?.imageURL ?? ''}
-									alt='poster'
-								/>
-							</div>
 							<Dialog.Title
 								as='h1'
 								className='font-bold text-3xl inline-block mt-5 mb-2'
@@ -70,6 +63,11 @@ const PosterDialog = ({ isOpen, poster, onCloseDialog }: PosterDialogProp) => {
 							<hr />
 
 							<div className='mt-4 flex justify-end items-center'>
+								<a className='mr-3' href={poster?.imageURL}>
+									<button className='w-full border-2 border-green-600 text-green-600 p-2 px-5 rounded-md font-bold text-xl tracking-wider shadow-md hover:shadow-lg hover:text-white hover:bg-green-600 transition-shadow transition-colors'>
+										Poster
+									</button>
+								</a>
 								<a className='mr-3' href={poster?.videoURL}>
 									<button className='w-full border-2 border-blue-600 text-blue-600 p-2 px-5 rounded-md font-bold text-xl tracking-wider shadow-md hover:shadow-lg hover:text-white hover:bg-blue-600 transition-shadow transition-colors'>
 										Video

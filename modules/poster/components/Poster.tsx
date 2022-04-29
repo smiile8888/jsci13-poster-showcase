@@ -16,7 +16,7 @@ const Poster = ({ poster, className, onClick }: PosterProps) => {
 	return (
 		<div
 			onClick={(_) => onClick(poster)}
-			className={`max-w-[400px] p-5 rounded-xl shadow-md hover:shadow-xl transition-shadow cursor-pointer ${className} mx-auto mt-5`}
+			className={`max-w-[600px] p-5 rounded-xl shadow-md hover:shadow-xl transition-shadow cursor-pointer ${className} mx-auto mt-5`}
 		>
 			<PosterImage imageURL={poster.imageURL} />
 			<PosterTitle title={poster.title} />
