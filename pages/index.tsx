@@ -46,7 +46,7 @@ const Home: NextPage = () => {
 					School of Information Technology, King Mongkut&apos;s University of
 					Technology Thonburi
 				</p>
-				<img className='max-w-[500px] h-auto mx-auto' src='/images/KMUTT+SIT.png' alt='SIT, KMUTT Logo' />
+				<img className='max-w-[500px] h-auto mx-auto' src='images/KMUTT+SIT.png' alt='SIT, KMUTT Logo' />
 			</footer>
 		</div>
 	);
