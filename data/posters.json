@@ -1,56 +1,83 @@
 [
-	{
-		"posterId": 1,
-		"authors": ["Lorem ipsum"],
-		"title": "Lorem ipsum dolor sit amet",
-		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
-		"course": "csc491"
-	},
-	{
-		"posterId": 2,
-		"authors": ["Lorem ipsum", "Lorem ipsum"],
-		"title": "Lorem ipsum dolor sit amet",
-		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
+  {
+    "posterId": 1,
+		"authors": ["Wisarut Kitticharoenphonngam"],
+		"title": "Face Masks Detection",
+		"abstract": "Poster #1",
+		"imageUrl": "https://drive.google.com/file/d/18PuyZlKXNiya7JeTzD07IhT_rladN8k2/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=sioUWhkNaWc",
 		"course": "csc532"
-	},
-	{
-		"posterId": 3,
-		"authors": ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum"],
-		"title": "Lorem ipsum dolor sit amet",
-		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
+  },
+  {
+    "posterId": 2,
+		"authors": ["Kaewket Saelee"],
+		"title": "English Handwriting Recognition",
+		"abstract": "Poster #2",
 		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
+		"videoUrl": "https://drive.google.com/drive/folders/1Q3s0aoddOtjnkP8xs-GntH2On-k-0mIt?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=1825efef-9a25-21dd-0c2b-0009ccae9011",
 		"course": "csc532"
-	},
-	{
-		"posterId": 4,
-		"authors": ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum"],
-		"title": "Lorem ipsum dolor sit amet",
-		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
-		"course": "csc491"
-	},
-	{
-		"posterId": 5,
-		"authors": ["Lorem ipsum"],
-		"title": "Lorem ipsum dolor sit amet",
-		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
+  },
+  {
+    "posterId": 3,
+		"authors": ["Kodchapong Dechboonyapichart"],
+		"title": "Music Category Classification for MusAI System",
+		"abstract": "Poster #3",
+		"imageUrl": "https://drive.google.com/file/d/1QBs-5xDZAIG5mCVOHA7SnWfa029KgLuz/preview",
+		"videoUrl": "https://drive.google.com/file/d/1CSa52BM40MntfBjhYhRk_grqS2_736V1/view?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=98278d5f-2a86-a5d0-55ee-5837d3023c67",
 		"course": "csc532"
-	},
-	{
-		"posterId": 6,
-		"authors": ["Lorem ipsum", "Lorem ipsum", "Lorem ipsum"],
-		"title": "Lorem ipsum dolor sit amet",
-		"abstract": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere quibusdam fugiat in pariatur voluptatem minima illum, id nemo blanditiis nostrum, at odit perspiciatis harum quasi cumque assumenda delectus fuga rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit reiciendis officiis voluptas totam pariatur facilis fuga quo distinctio suscipit? Error laboriosam veritatis modi quod in quidem quae vel exercitationem earum",
-		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=XKfgdkcIUxw",
+  },
+  {
+    "posterId": 4,
+		"authors": ["Wuthipong Wongsrithep"],
+		"title": "Meat Quality classify",
+		"abstract": "Poster #4",
+		"imageUrl": "https://drive.google.com/file/d/1vPYqhZlzHajFyKlQxjpB2QZ4HGhPcAR4/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=IF4Jid9A-X4",
 		"course": "csc532"
-	}
+  },
+  {
+    "posterId": 5,
+		"authors": ["Warot Janpinitrat"],
+		"title": "Twitter Cyberbullying Tweet Analysis Project Update",
+		"abstract": "Poster #5",
+		"imageUrl": "https://drive.google.com/file/d/15U8bokcgWdh-nwDna3uI8GsrNL8Si0z7/preview",
+		"videoUrl": "https://drive.google.com/file/d/1g64rVv5eoexDIZaKOCLlr3dXlllNhY0Q/view?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=5f684fa9-c178-b36d-356b-6f80a3c160a4",
+		"course": "csc532"
+  },
+  {
+    "posterId": 6,
+		"authors": ["Waron Janpinitrat"],
+		"title": "Machine Learning Model for Image Classification of 75 Species of Butterfly",
+		"abstract": "Poster #6",
+		"imageUrl": "https://drive.google.com/file/d/1Bbl-imtvwXCeZIRQyJPDX7XsW6gdM0eU/preview",
+		"videoUrl": "https://drive.google.com/file/d/1khESR_LsAoOaCpFrSIXDdTaTS85B2hV3/view?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=51e6dfec-4f7e-27ad-1feb-6a818d65e3b0",
+		"course": "csc532"
+  },
+  {
+    "posterId": 7,
+		"authors": ["Nuttavadee Autsavapanakit"],
+		"title": "Traffic Sign Recognition",
+		"abstract": "Poster #7",
+		"imageUrl": "https://drive.google.com/file/d/1IXyD01TqN_1Ls989nbP9FuB1prIRkF2k/preview",
+		"videoUrl": "https://drive.google.com/file/d/1Y5hzosIrg-ojFOsvqOucir_pcVYnkmPN/view?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=15001bc3-ca67-3a42-7111-673f95b7e186",
+		"course": "csc532"
+  },
+  {
+    "posterId": 8,
+		"authors": ["Nutdanai Kitphermjaoren"],
+		"title": "Convolutional Neural Network Model for Video Scene Classification",
+		"abstract": "Poster #8",
+		"imageUrl": "https://drive.google.com/file/d/1X_i3n5IxKkQwZqKDMy460B_AqxOFYR0z/preview",
+		"videoUrl": "https://mailkmuttacth-my.sharepoint.com/personal/nutdanai_282_mail_kmutt_ac_th/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnutdanai%5F282%5Fmail%5Fkmutt%5Fac%5Fth%2FDocuments%2FKMUTT%203%2E2%2FCSC532%20ML%2FPoster%2Ffinal%2F62208%2DConvolutional%20Neural%20Network%20Model%20for%20Video%20Scene%20Classification%2Emp4&parent=%2Fpersonal%2Fnutdanai%5F282%5Fmail%5Fkmutt%5Fac%5Fth%2FDocuments%2FKMUTT%203%2E2%2FCSC532%20ML%2FPoster%2Ffinal&ga=1",
+		"course": "csc532"
+  },
+  {
+    "posterId": 9,
+		"authors": ["Kittiyaporn Takrudthieng"],
+		"title": "Identify the Category of Foliar Diseases in Apple Trees",
+		"abstract": "Poster #9",
+		"imageUrl": "https://drive.google.com/file/d/1sXNJZdLbMFUyYxUe0bnNcw0tRzvxjDaZ/preview",
+		"videoUrl": "https://vimeo.com/704382681/6f1e5127ba?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=f52c9888-e245-6328-63bd-1bf199cff57f",
+		"course": "csc532"
+  }
 ]
