@@ -21,7 +21,6 @@ const Home: NextPage = () => {
 
 			<header className='mt-10 mb-5 text-center'>
 				<h1 className='text-5xl font-bold text-center mb-3'>JSCI12 Undergraduate Poster Competition</h1>
-				<p className='mt-3'>📝 Click on the card of each poster to learn more</p>
 			</header>
 
 			<div className='flex justify-center'>
