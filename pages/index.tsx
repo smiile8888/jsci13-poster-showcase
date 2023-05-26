@@ -16,11 +16,11 @@ const Home: NextPage = () => {
 	return (
 		<div className='max-w-max m-auto'>
 			<Head>
-				<title>JSCI12 Undergraduate Poster Competition</title>
+				<title>JSCI13 Undergraduate Poster Competition</title>
 			</Head>
 
 			<header className='mt-10 mb-5 text-center'>
-				<h1 className='text-5xl font-bold text-center mb-3'>JSCI12 Undergraduate Poster Competition</h1>
+				<h1 className='text-5xl font-bold text-center mb-3'>JSCI13 Undergraduate Poster Competition</h1>
 			</header>
 
 			<div className='flex justify-center'>
