@@ -7,7 +7,7 @@ const nextConfig = {
   images: {
     domains: ['placekitten.com'],
   },
-  assetPrefix: isProd ? '/jsci12-poster-showcase/' : ''
+  assetPrefix: isProd ? '/jsci13-poster-showcase/' : ''
 }
 
 module.exports = nextConfig
