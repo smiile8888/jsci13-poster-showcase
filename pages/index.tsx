@@ -31,12 +31,12 @@ const Home: NextPage = () => {
 
 			<footer className='mt-10 p-10 text-center text-gray-500 text-md'>
 				<p>
-					Designed and Developed by{' '}
+					Past:{' '}
 					<a
 						className='font-bold hover:underline'
-						href='https://petepittawat.dev/about'
+						href='https://pittawat2542.github.io/jsci12-poster-showcase/'
 					>
-						Pittawat Taveekitworachai
+						JSCI12
 					</a>
 				</p>
 				<p className='mb-5'>
