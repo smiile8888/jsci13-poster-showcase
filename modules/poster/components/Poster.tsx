@@ -42,7 +42,7 @@ const Poster = ({ poster, className }: PosterProps) => {
 						Video
 					</button>
 				</a>
-				<VoteButton posterID={poster.id} />
+				{/* <VoteButton posterID={poster.id} /> */}
 			</div>
 		</div>
 	);
