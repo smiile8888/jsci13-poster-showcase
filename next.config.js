@@ -6,8 +6,7 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     domains: ['placekitten.com'],
-  },
-  assetPrefix: isProd ? '/jsci13-poster-showcase/' : ''
+  }
 }
 
 module.exports = nextConfig
