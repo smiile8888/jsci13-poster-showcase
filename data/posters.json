@@ -1,92 +1,272 @@
 [
   {
     "posterId": 1,
-		"authors": ["Wisarut Kitticharoenphonngam"],
-		"title": "Face Masks Detection",
+		"authors": ["MR.Muhibullah Mudaser"],
+		"title": "",
 		"abstract": "Poster #1",
-		"imageUrl": "https://drive.google.com/file/d/18PuyZlKXNiya7JeTzD07IhT_rladN8k2/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=sioUWhkNaWc",
+		"imageUrl": "https://drive.google.com/file/d/1A5wCd5OVGPBq4QDROxegR0EMKsEYNonL/preview",
+		"videoUrl": "https://drive.google.com/file/d/1pj_f8EaBeS_las3gxkVUjUQ8_aR-YUnK/view?usp=sharing",
 		"course": "csc532"
   },
   {
     "posterId": 2,
-		"authors": ["Kaewket Saelee"],
-		"title": "English Handwriting Recognition",
+		"authors": ["MR.Khang Hoang"],
+		"title": "",
 		"abstract": "Poster #2",
-		"imageUrl": "https://drive.google.com/file/d/1RpwVDXB5GaSaNv6lWoii7b0LjVrNIm8s/preview",
-		"videoUrl": "https://drive.google.com/drive/folders/1Q3s0aoddOtjnkP8xs-GntH2On-k-0mIt?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=1825efef-9a25-21dd-0c2b-0009ccae9011",
+		"imageUrl": "https://drive.google.com/file/d/1iDlliRWJ10Pk1SUValE8esiWJTeqk-uq/preview",
+		"videoUrl": "https://drive.google.com/file/d/1GyW6uAeYUYale_NpDcPlcalvW9Fe8Xkf/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=7b006072-7c97-da19-d232-1611bb6fcb7c",
 		"course": "csc532"
   },
   {
     "posterId": 3,
-		"authors": ["Kodchapong Dechboonyapichart"],
-		"title": "Music Category Classification for MusAI System",
+		"authors": ["MR.Pakhanut  Pakhakorntanatorn"],
+		"title": "",
 		"abstract": "Poster #3",
-		"imageUrl": "https://drive.google.com/file/d/1QBs-5xDZAIG5mCVOHA7SnWfa029KgLuz/preview",
-		"videoUrl": "https://drive.google.com/file/d/1CSa52BM40MntfBjhYhRk_grqS2_736V1/view?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=98278d5f-2a86-a5d0-55ee-5837d3023c67",
+		"imageUrl": "https://drive.google.com/file/d/1ZXTpNLGOucXhU1bxt2hYLxXk-w2Axm1n/preview",
+		"videoUrl": "https://drive.google.com/file/d/1Gql3NN2Eh91F9wSHiIh6LjvxfnLoU6tp/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=7862d6ed-65c3-b5bc-4938-1146745a281d",
 		"course": "csc532"
   },
   {
     "posterId": 4,
-		"authors": ["Wuthipong Wongsrithep"],
-		"title": "Meat Quality classify",
+		"authors": ["MR.Pakpisit  Pakhakorntanatorn "],
+		"title": "",
 		"abstract": "Poster #4",
-		"imageUrl": "https://drive.google.com/file/d/1vPYqhZlzHajFyKlQxjpB2QZ4HGhPcAR4/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=IF4Jid9A-X4",
+		"imageUrl": "https://drive.google.com/file/d/1pVc-NpF-ehqdOl-w4Z7nUuEHdo3oInqK/preview",
+		"videoUrl": "https://drive.google.com/file/d/1pVc-NpF-ehqdOl-w4Z7nUuEHdo3oInqK/view?usp=sharing",
 		"course": "csc532"
   },
   {
     "posterId": 5,
-		"authors": ["Warot Janpinitrat"],
-		"title": "Twitter Cyberbullying Tweet Analysis Project Update",
+		"authors": ["MR.Jullapol  Satienpisarn "],
+		"title": "",
 		"abstract": "Poster #5",
-		"imageUrl": "https://drive.google.com/file/d/15U8bokcgWdh-nwDna3uI8GsrNL8Si0z7/preview",
-		"videoUrl": "https://drive.google.com/file/d/1g64rVv5eoexDIZaKOCLlr3dXlllNhY0Q/view?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=5f684fa9-c178-b36d-356b-6f80a3c160a4",
+		"imageUrl": "",
+		"videoUrl": "",
 		"course": "csc532"
   },
   {
     "posterId": 6,
-		"authors": ["Waron Janpinitrat"],
-		"title": "Machine Learning Model for Image Classification of 75 Species of Butterfly",
+		"authors": ["MS.Chutirat  Surasombatpattana "],
+		"title": "",
 		"abstract": "Poster #6",
-		"imageUrl": "https://drive.google.com/file/d/1Bbl-imtvwXCeZIRQyJPDX7XsW6gdM0eU/preview",
-		"videoUrl": "https://drive.google.com/file/d/1khESR_LsAoOaCpFrSIXDdTaTS85B2hV3/view?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=51e6dfec-4f7e-27ad-1feb-6a818d65e3b0",
+		"imageUrl": "https://drive.google.com/file/d/1pJJMV7vnCUbNk3BWI_rreaj3krCT5qbI/preview",
+		"videoUrl": "https://drive.google.com/drive/folders/1ekN3rRXgM7EuyiW2-yLgJl4-YwjjKHeq?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=a841449c-2f37-df72-83a8-e20213280a01",
 		"course": "csc532"
   },
   {
     "posterId": 7,
-		"authors": ["Nuttavadee Autsavapanakit"],
-		"title": "Traffic Sign Recognition",
+		"authors": ["MS.Tawirath  Teankachart "],
+		"title": "",
 		"abstract": "Poster #7",
-		"imageUrl": "https://drive.google.com/file/d/1IXyD01TqN_1Ls989nbP9FuB1prIRkF2k/preview",
-		"videoUrl": "https://drive.google.com/file/d/1Y5hzosIrg-ojFOsvqOucir_pcVYnkmPN/view?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=15001bc3-ca67-3a42-7111-673f95b7e186",
+		"imageUrl": "https://drive.google.com/drive/folders/1_hMTqZSj_2G5slBrtdnFl7LzSl3oospk?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=0278dd91-511b-2014-c9f7-fd290c88b307",
+		"videoUrl": "https://drive.google.com/drive/folders/1_hMTqZSj_2G5slBrtdnFl7LzSl3oospk?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=0278dd91-511b-2014-c9f7-fd290c88b307",
 		"course": "csc532"
   },
   {
     "posterId": 8,
-		"authors": ["Nutdanai Kitphermjaoren"],
-		"title": "Convolutional Neural Network Model for Video Scene Classification",
+		"authors": ["MR.Thanapat  Manachaimongkol "],
+		"title": "",
 		"abstract": "Poster #8",
-		"imageUrl": "https://drive.google.com/file/d/1X_i3n5IxKkQwZqKDMy460B_AqxOFYR0z/preview",
-		"videoUrl": "https://mailkmuttacth-my.sharepoint.com/personal/nutdanai_282_mail_kmutt_ac_th/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnutdanai%5F282%5Fmail%5Fkmutt%5Fac%5Fth%2FDocuments%2FKMUTT%203%2E2%2FCSC532%20ML%2FPoster%2Ffinal%2F62208%2DConvolutional%20Neural%20Network%20Model%20for%20Video%20Scene%20Classification%2Emp4&parent=%2Fpersonal%2Fnutdanai%5F282%5Fmail%5Fkmutt%5Fac%5Fth%2FDocuments%2FKMUTT%203%2E2%2FCSC532%20ML%2FPoster%2Ffinal&ga=1",
+		"imageUrl": "https://drive.google.com/file/d/1nkD6ercRsBu_hcbF920l6ku2-S5PSkyY/preview",
+		"videoUrl": "https://drive.google.com/file/d/10M456XKY386Nqwyt9W3TaZk-5ET3zM_h/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=b8c80ff4-3afc-4df3-6d6c-063456ee85f8",
 		"course": "csc532"
   },
   {
     "posterId": 9,
-		"authors": ["Kittiyaporn Takrudthieng"],
-		"title": "Identify the Category of Foliar Diseases in Apple Trees",
+		"authors": ["MS.Thanawan  Li "],
+		"title": "",
 		"abstract": "Poster #9",
-		"imageUrl": "https://drive.google.com/file/d/1sXNJZdLbMFUyYxUe0bnNcw0tRzvxjDaZ/preview",
-		"videoUrl": "https://vimeo.com/704382681/6f1e5127ba?classId=5b6a58a1-0cd6-4f00-9bbb-4d7dd3983e0a&assignmentId=a0cf59e7-6be8-4a40-9fba-1a55b3459a96&submissionId=f52c9888-e245-6328-63bd-1bf199cff57f",
+		"imageUrl": "https://drive.google.com/file/d/1i5QPBhTs9qvPj3_0okE06MgZqKW32jsX/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=m-Ns-2z1XTo",
 		"course": "csc532"
   },
   {
     "posterId": 10,
-		"authors": ["Krishadawut Olde MONNIKHOF"],
-		"title": "Use Recipe Ingredients to Categorize the Cuisine",
+		"authors": ["MR.Nonthakorn  Inthong "],
+		"title": "",
 		"abstract": "Poster #10",
-		"imageUrl": "https://drive.google.com/file/d/1d4WveTsQhnmBz4tHzH6XycjIPPpa-ENB/preview",
-		"videoUrl": "https://www.youtube.com/watch?v=iQzq4fJih4E",
+		"imageUrl": "https://drive.google.com/file/d/125D-pyRy-SF9dxkyz-OWj4bUATcyM0qt/preview",
+		"videoUrl": "https://drive.google.com/file/d/1pj_f8EaBeS_las3gxkVUjUQ8_aR-YUnK/view?usp=sharing",
+		"course": "csc532"
+  },
+  {
+    "posterId": 11,
+		"authors": ["MR.Pathompong  Srikitkaseamwet "],
+		"title": "",
+		"abstract": "Poster #11",
+		"imageUrl": "https://drive.google.com/file/d/1wPbU_nE9wkuUfUv_A-IU1vDEgDgokX4B/preview",
+		"videoUrl": "https://drive.google.com/file/d/1Q1kz1npix8Zo0zFRhTo8xCp0vJexDRfP/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=82902821-1dd4-274d-70d7-aca87f76538d",
+		"course": "csc532"
+  },
+  {
+    "posterId": 12,
+		"authors": ["MS.Parisa  Prabsiang "],
+		"title": "",
+		"abstract": "Poster #12",
+		"imageUrl": "https://drive.google.com/file/d/10Wbz8i2x0kKxZpYr9dpRLqFSXRLMb3YA/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=cWJw9aNAfJ8",
+		"course": "csc532"
+  },
+  {
+    "posterId": 13,
+		"authors": ["MS.Phichayaphak  Phengphan "],
+		"title": "",
+		"abstract": "Poster #13",
+		"imageUrl": "https://drive.google.com/file/d/1_exbSX70tcxtaIE7ZoaTgAqR81yIuimE/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=UGxFXl-swYM",
+		"course": "csc532"
+  },
+  {
+    "posterId": 14,
+		"authors": ["MS.Phraewa  Phrueksawan "],
+		"title": "",
+		"abstract": "Poster #14",
+		"imageUrl": "https://drive.google.com/file/d/1FaoUvm7HMcEmb9npH9fzfdGNnrGNd-5f/preview",
+		"videoUrl": "https://drive.google.com/file/d/1YBdYt6Y6h4w3HaSy0LVkm0VB6XzJX2Sg/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=43c921ba-306c-55bb-d8f1-258ceb0e768e",
+		"course": "csc532"
+  },
+  {
+    "posterId": 15,
+		"authors": ["MR.Pakpol  Roongsri "],
+		"title": "",
+		"abstract": "Poster #15",
+		"imageUrl": "https://drive.google.com/file/d/1GgCrhpUWGzdyDpfcR0TkMbIz0IA36xJY/preview",
+		"videoUrl": "https://drive.google.com/file/d/1OpRCJz1bZ3B2lK6V6I1CKxVSlKStgAzH/view?usp=sharing",
+		"course": "csc532"
+  },
+  {
+    "posterId": 16,
+		"authors": ["MR.Watchara  Ukhuntod "],
+		"title": "",
+		"abstract": "Poster #16",
+		"imageUrl": "https://drive.google.com/file/d/162__a1rNt4J0Lnc8zBxgDYWkOcn4-Zvi/preview",
+		"videoUrl": "https://drive.google.com/file/d/1HRHggNXV6uJqZMECGNm7uPeP5E7EM8aY/view",
+		"course": "csc532"
+  },
+  {
+    "posterId": 17,
+		"authors": ["MR.Sirawit  Pratoomsuwan "],
+		"title": "",
+		"abstract": "Poster #17",
+		"imageUrl": "https://drive.google.com/file/d/1yH9DAj0WuVNlXZRaQBbLpM_jpJHyvwjW/preview",
+		"videoUrl": "https://mailkmuttacth.sharepoint.com/sites/SirawitsStudio/_layouts/15/stream.aspx?id=%2Fsites%2FSirawitsStudio%2FShared%20Documents%2FGeneral%2FRecordings%2FML%20Poster%20Presentation%2D20230526%5F221402%2DMeeting%20Recording%2Emp4&ga=1",
+		"course": "csc532"
+  },
+  {
+    "posterId": 18,
+		"authors": ["MR.Suwijak  Tapsukalack "],
+		"title": "",
+		"abstract": "Poster #18",
+		"imageUrl": "https://drive.google.com/file/d/1qG9zseUi9I3QbVnJRwBzj-74csguFvjT/preview",
+		"videoUrl": "https://drive.google.com/file/d/1hlaaRslSMQvoqofCiQQiHl4wz7n52d_t/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=320fefb8-7851-5a58-e302-91e8cdde59f2",
+		"course": "csc532"
+  },
+  {
+    "posterId": 19,
+		"authors": ["MR.Athippat  Chirawongnathiporn "],
+		"title": "",
+		"abstract": "Poster #19",
+		"imageUrl": "https://www.canva.com/design/DAFkAHwYmUU/1fWUZIuiqIqSBb_T7wdvhA/edit?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=751014dd-f02a-2ee9-d190-43b09a39f9d9",
+		"videoUrl": "",
+		"course": "csc532"
+  },
+  {
+    "posterId": 20,
+		"authors": ["MS.Aphisara  Panthawornnawin "],
+		"title": "",
+		"abstract": "Poster #20",
+		"imageUrl": "https://drive.google.com/file/d/15Y8_HM9087y0nbE3GS_AdDrulG2lwPld/preview",
+		"videoUrl": "https://drive.google.com/file/d/10vNfHVB7_ZBACpZSLNuIgy7cUgPyH43f/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=422bb8b6-7ad0-1c2d-f552-a0cae03545c6",
+		"course": "csc532"
+  },
+  {
+    "posterId": 21,
+		"authors": ["MR.Panitnun  Suvannabun "],
+		"title": "",
+		"abstract": "Poster #21",
+		"imageUrl": "https://drive.google.com/file/d/1iFrFPd6J6oeSZl9KJPI8no9FEAAyeb6G/preview",
+		"videoUrl": "https://drive.google.com/file/d/1I8BapDMuK4LWmm67GNLQ57PNKEDAwFLx/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=56c4a9cb-4e89-0dd3-244a-8b22d9b5d2bc&classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=56c4a9cb-4e89-0dd3-244a-8b22d9b5d2bc",
+		"course": "csc532"
+  },
+  {
+    "posterId": 22,
+		"authors": ["MS.Chutikarn  Pureesathit "],
+		"title": "",
+		"abstract": "Poster #22",
+		"imageUrl": "https://drive.google.com/file/d/1mAWc8-dBj5kS4rud935-98Mf-EPauLSw/preview",
+		"videoUrl": "https://www.canva.com/design/DAFj7tvU2Ww/oc2m-EczkMwC8ZRLYWdIkQ/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=7f28136a-92bc-4464-b0a1-463ec6fc7806&classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=7f28136a-92bc-4464-b0a1-463ec6fc7806",
+		"course": "csc532"
+  },
+  {
+    "posterId": 23,
+		"authors": ["MR.Thanasan  Sengjaroen "],
+		"title": "",
+		"abstract": "Poster #23",
+		"imageUrl": "https://drive.google.com/file/d/118urBiyWnJk_ksTBxGMFxc-x4dRy2JpJ/preview",
+		"videoUrl": "https://drive.google.com/file/d/18Dsw6g5fs6kdfjx-7MmzrIGNHIUVAJ7J/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=ccb6bb24-b852-dbf8-9cd8-2e61a8985be4",
+		"course": "csc532"
+  },
+  {
+    "posterId": 24,
+		"authors": ["MS.Thanyapat  Lohasummakul "],
+		"title": "",
+		"abstract": "Poster #24",
+		"imageUrl": "https://drive.google.com/file/d/1fZJ3yb8HO_ApCH_HOpUpbrZGQWsWHW2d/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=3mhbU28-O28",
+		"course": "csc532"
+  },
+  {
+    "posterId": 25,
+		"authors": ["MR.Parin  Likhitworasak "],
+		"title": "",
+		"abstract": "Poster #25",
+		"imageUrl": "https://drive.google.com/file/d/1P2yvtOZN_jU2TzsJQwesj1IofkRImVpN/preview",
+		"videoUrl": "https://drive.google.com/drive/folders/1p-AxbagM3JjENL665h-ogsCeYjfbJ6se?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=32b86bb1-eeaa-b32e-568d-8c991dc2f4be",
+		"course": "csc532"
+  },
+  {
+    "posterId": 26,
+		"authors": ["MR.Ratchanon  Lertrungrueng "],
+		"title": "",
+		"abstract": "Poster #26",
+		"imageUrl": "https://drive.google.com/file/d/1CEKwTIJH8FZUmlR2Y1Ka2fJ1CJz4mpJ5/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=tw8vreXRzKo",
+		"course": "csc532"
+  },
+  {
+    "posterId": 27,
+		"authors": ["MS.Worada  Damrongratnuwong "],
+		"title": "",
+		"abstract": "Poster #27",
+		"imageUrl": "https://drive.google.com/file/d/1VER3cC-3wv5HEoeE9Duf4TU4ItTGY4qw/preview",
+		"videoUrl": "https://drive.google.com/file/d/1W8lOIARPf_jFWCBiPCs3Gp9Az5PSFX8A/view?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=6ac461f1-1605-bf10-cf79-53c758b7bfb1",
+		"course": "csc532"
+  },
+  {
+    "posterId": 28,
+		"authors": ["MS.Austapinya  Panchapolkul "],
+		"title": "",
+		"abstract": "Poster #28",
+		"imageUrl": "https://drive.google.com/file/d/1_zQWacOFfmN5cTo6dU7ONTavkuCUwHmH/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=Bfvl-Dzm3ZY",
+		"course": "csc532"
+  },
+  {
+    "posterId": 29,
+		"authors": ["MS.Janette  Wongprasith "],
+		"title": "",
+		"abstract": "Poster #29",
+		"imageUrl": "https://drive.google.com/drive/folders/1BFldzzm5EB9430RlKVQQf5LRybMi74df?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=a69615e8-bbcd-901a-6269-68e9105602ef",
+		"videoUrl": "https://drive.google.com/drive/folders/1BFldzzm5EB9430RlKVQQf5LRybMi74df?classId=a2939326-a58f-4bf2-96f1-0c0fd12d19d4&assignmentId=1c0f9827-fbd0-4c6a-8089-0cce91f8ba5a&submissionId=a69615e8-bbcd-901a-6269-68e9105602ef",
+		"course": "csc532"
+  },
+  {
+    "posterId": 30,
+		"authors": ["MR.Pongsakorn Sommapee"],
+		"title": "",
+		"abstract": "Poster #30",
+		"imageUrl": "https://drive.google.com/file/d/1gNM5RC6XMWY3NbQXjQugipkM_X26LDNG/preview",
+		"videoUrl": "https://www.youtube.com/watch?v=u28Rr6jrdCU",
 		"course": "csc532"
   }
 ]
